@@ -18,6 +18,7 @@ h1{
 p{
     line-height: 1.8;
     font-size: 1.2em;
+    max-width: 75ch;
 }
 
 p.quote{
